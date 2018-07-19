@@ -131,9 +131,10 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
+	"Want to apply for staff? Do so on our website, GModEZ.com",
 	"Thanks for joining us!",
-	"Did you know these backgrounds are from Touhou?",
+	"Want free donator? Get the free trial on our donation store.",
+	"Need staff? Do @ to create a report.",
 ];
 
 // Random message order?
