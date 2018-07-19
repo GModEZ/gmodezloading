@@ -116,6 +116,7 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/OwbI9IY9Roo", name: "21 Savage - Ric Flair Drip"},
 	{youtube: "https://youtu.be/BSCOPmFY1ys", name: "Young N Fly - Another One"},
 	{youtube: "https://youtu.be/pgN-vvVVxMA", name: "XXXTentacion - Sad"},
+	{youtube: "https://youtu.be/mzB1VGEGcSU", name: "Juice WRLD - Lucid Dreams"},
 ];
 
 // Random music order?
