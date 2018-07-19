@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "";
+var l_serverImage = "logo1.png";
 
 // Center logo?
 // 'true' or 'false'
@@ -72,9 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"1095132265_preview_745225322_preview_568ba0198964d.jpg",
+	"621736489_preview_steamworkshop_webupload_previewfile_283050282_preview.jpg",
+	"download.jpg"
 ];
 
 // (Image-background only)
