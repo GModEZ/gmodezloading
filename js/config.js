@@ -14,7 +14,7 @@ var l_serverImage = "logo1.png";
 
 // Center logo?
 // 'true' or 'false'
-var l_centerLogo = true;
+var l_centerLogo = false;
 
 // Display current map and gamemode?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "GModEZ - [DarkRP]";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
