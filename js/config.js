@@ -113,8 +113,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://youtu.be/OwbI9IY9Roo", name: "Ric Flair Drip - 21 Savage"},
+	{youtube: "https://youtu.be/OwbI9IY9Roo", name: "21 Savage - Ric Flair Drip"},
 	{youtube: "https://youtu.be/BSCOPmFY1ys", name: "Young N Fly - Another One"},
+	{youtube: "https://youtu.be/pgN-vvVVxMA", name: "XXXTentacion - Sad"},
 ];
 
 // Random music order?
