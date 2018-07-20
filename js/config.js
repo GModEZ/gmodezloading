@@ -117,6 +117,8 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/BSCOPmFY1ys", name: "Young N Fly - Another One"},
 	{youtube: "https://youtu.be/pgN-vvVVxMA", name: "XXXTentacion - Sad"},
 	{youtube: "https://youtu.be/mzB1VGEGcSU", name: "Juice WRLD - Lucid Dreams"},
+	{youtube: "https://youtu.be/BWdbMtTCEi0", name: "KYLE - Doubt It"},
+	{youtube: "https://youtu.be/2hf_DY0wJ0k", name: "Lil Skies - Red Roses"},
 ];
 
 // Random music order?
@@ -125,7 +127,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 10;
+var l_musicVolume = 5;
 
 // Enable custom messages?
 // 'true' or 'false'
