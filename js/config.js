@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo1.png";
+var l_serverImage = "ezservers.png";
 
 // Center logo?
 // 'true' or 'false'
